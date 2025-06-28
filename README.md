@@ -10,7 +10,7 @@ Unlock the future of smart contract security! 🚀 In this complete Web3 project
 
 Kindly follow the following Instructions to run the project in your system and install the necessary requirements
 
-- [Final Source Code]()
+- [Final Source Code](https://www.theblockchaincoders.com/sourceCode/build-and-deploy-an-ai-solidity-smart-contract-auditor-with-next.js-solidity-and-ai-saas-or-full-web3-project)
 
 #### Setup Video
 
