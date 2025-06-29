@@ -14,7 +14,7 @@ Kindly follow the following Instructions to run the project in your system and i
 
 #### Setup Video
 
-- [Final Code Setup video]()
+- [Final Code Setup video](https://youtu.be/4bu4Rj_9aZ0?si=3b9Oz2iGOJOZMcNP)
 
 🔧 What You'll Build:
 
